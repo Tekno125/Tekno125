@@ -9,7 +9,7 @@ Saya sedang belajar:
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,tailwind,github,vscode,node,pnpm)
+![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,tailwind,github,vscode,nodejs,pnpm)
 
 ## Project
 
