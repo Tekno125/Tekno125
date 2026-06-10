@@ -13,6 +13,6 @@ Saya sedang belajar:
 
 ## Project
 
-- Pembaca Angka
+- [Pembaca Angka](https://pembaca-angka.vercel.app/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tekno125)
