@@ -5,7 +5,7 @@ Saya sedang belajar:
 - JavaScript
 - React
 - Git & GitHub
-- TypeScript
+- Tailwindcss
 
 ## Tech Stack
 
